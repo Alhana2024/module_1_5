@@ -1,4 +1,4 @@
-immutable_var = tuple([5, 4, False, 6.1, 'saddle'])
+immutable_var = (5, 4, False, 6.1, 'saddle')
 print('Immutable tuple:',immutable_var)
 #immutable_var [0] = 10
 #print('Immutable tuple:',immutable_var)
